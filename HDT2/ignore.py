@@ -1,1 +1,0 @@
-print("ignoren este programa")
